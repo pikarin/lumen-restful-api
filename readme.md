@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/pikarin/lumen-restful-api.svg?branch=master)](https://travis-ci.org/pikarin/lumen-restful-api)
 
-RESTful API sederhana menggunakan Lumen.
+RESTful API sederhana menggunakan [Lumen PHP Framework](https://github.com/laravel/lumen).
 
 ## Prasyarat
 
@@ -91,3 +91,6 @@ Untuk testing cukup jalankan phpunit dari terminal
 ```
 vendor/bin/phpunit
 ```
+
+## License
+MIT
